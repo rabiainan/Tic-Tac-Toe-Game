@@ -1,0 +1,30 @@
+body{
+background:url("https://images.unsplash.com/photo-1477058267562-6f70f44288a9?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=8341f390801d305ba727f8f096f32221&auto=format&fit=crop&w=600&q=60")  ;
+  
+}
+
+#main{
+ margin-top:20px ; 
+}
+#btn1{
+margin-right:10px;  
+}
+#restart{
+  margin-right:10px;
+}
+.square {
+  margin: 2px;
+  width: 70px;
+  height:70px;
+  float: left;
+  font-size: 50px;
+  padding: 6px;
+  cursor: pointer;
+  background-color:#7FFFD4;
+}
+.box {
+  margin: auto;
+  width: 250px;
+  height: 250px;
+ 
+}
